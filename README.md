@@ -5,6 +5,7 @@ This repository contains practical implementations of core machine learning algo
 ## Learning Theory
 - Ridge and Lasso Regression Implementation
 - One-Hot Encoding and Dummy Variables Trap
+- Multicollinearity Implementation
   
 ## Projects
 - Diabetes Prediction using Logistic Regression  
